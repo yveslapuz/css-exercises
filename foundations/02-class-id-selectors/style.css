@@ -1,0 +1,28 @@
+.pClass {
+  color: black;
+  background-color: #fe957f;
+  font-size: 25px;
+  font-family: "Verdana", "DejaVu Sans", "Sans-serif";
+}
+
+#divID {
+  color: blue;
+  font-size: 36px;
+}
+
+.coolerClass {
+  font-family: "Verdana", "DejaVu Sans", "Sans-serif";
+  background-color: #fe957f;
+  font-size: 24px;
+}
+
+#anotherID {
+  background-color: rgb(144, 254, 127);
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.itsaCLASS {
+  font-family: "Verdana", "DejaVu Sans", "Sans-serif";
+  background-color: #fe957f;
+}
